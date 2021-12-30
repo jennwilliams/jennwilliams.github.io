@@ -1,11 +1,14 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /files/Williams_CV.pdf
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Conference Presentations"
     url: /presentations/    
     
-  - title: "CV"
-    url: /files/Williams_CV.pdf
+  
 
