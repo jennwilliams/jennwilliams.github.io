@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jennifer Williams"
   avatar           : "website_headshot.png" # in images/
-  bio              : "PhD student, Computational Biology"
+  bio              : "PhD student, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  employer         : "Carnegie Mellon University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cVmG810AAAAJ"
   email            : "jlw1@cs.cmu.edu"
