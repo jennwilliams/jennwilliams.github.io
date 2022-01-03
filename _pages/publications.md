@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+## <span style="color:#155270;">Preprints</span>
 <img align="left" src="/images/individual_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Behavior measures are predicted by how information is encoded in an individual's brain.**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
 [arXiv](https://arxiv.org/abs/2112.06048){: .btn .btn--primary .btn--small} [code](https://github.com/brainML/great-apes){: .btn .btn--primary .btn--small}<br style="clear:both" />
@@ -20,13 +20,13 @@ author_profile: true
 <!--  *medRxiv* <br>--> <!--, doi: [10.1101/2020.06.25.20140053](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1)-->
 <!-- <p style = "margin-right: 210px;"> -->
 
-## Peer-reviewed publications
+## <span style="color:#155270;">Peer-reviewed publications</span>
 <img align="left" src="/images/lsd1_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270">**LSD1 dual function in mediating epigenetic corruption of the vitamin D signaling in prostate cancer.**</span> <br>
 <span style="font-size:smaller">Sebastiano Battaglia, Ellen Karasik, Bryan Gillard, **Jennifer Williams**, Trisha Winchester, Michael T. Moser, Dominic J. Smiraglia, Barbara A. Foster</span> <br>
 <span style="font-size:smaller">*Clinical Epigenetics.*</span> <br>
 [journal](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-017-0382-y){: .btn .btn--primary .btn--small} [pdf](/files/lsd1_paper.pdf){: .btn .btn--primary .btn--small} <br>
 
-## Conference presentations 
+## <span style="color:#155270;">Conference presentations</span> 
 <span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
 <span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 poster.</span> <br>
