@@ -30,7 +30,7 @@ author_profile: true
 <span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
 <span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 poster.</span> <br>
-[Video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} 
+[video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} 
 
 <span style="color:#155270">**Leveraging Brain Encoding Models to Predict Individual Differences in Behavior**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
