@@ -11,5 +11,5 @@ I am a PhD student in **Computational Biology** in the **School of Computer Scie
 
 Before I joined CMU, I recieved a MSc in [Integrated Systems Biology](https://wwwde.uni.lu/studiengaenge/fstm/master_in_integrated_systems_biology) from the University of Luxembourg and a MS in [Interdisciplinary Natural Sciences](https://www.roswellpark.org/education/masters-phd-programs/masters-program) (now known as Cancer Sciences) from the University at Buffalo, Roswell Park Cancer Institute. In my Master's thesis I computationally and experimentally interrogated the role of Vitamin D in Prostate Cancer, advised by [Barbara Foster](https://www.roswellpark.org/barbara-foster).  
 
-<!-- ## News
-- **January 2022:** -->
+## News
+- **January 2022:** New paper that proposes a framework to enable causal inferences about the effects of complex stimuli in the brain was accepted to [CLeaR](https://www.cclear.cc/2022) 2022
