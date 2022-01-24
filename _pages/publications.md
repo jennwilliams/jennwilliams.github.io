@@ -16,11 +16,19 @@ author_profile: true
 
 <img align="left" src="/images/cen_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270">**Discriminative Subtyping of Lung Cancers from Histopathology Images via Contextual Deep Learning.**</span> <br>
 <span style="font-size:smaller">Benjamin J. Lengerich, Maruan Al-Shedivat, Amir Alavi, **Jennifer Williams**, Sami Labbaki, Eric P. Xing</span> <br>
-[medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1){: .btn .btn--primary .btn--small}<br style="clear:both" /> <!-- </p>-->
+[medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1){: .btn .btn--primary .btn--small}<br style="clear:both" /> <br> <!-- </p>-->
 <!--  *medRxiv* <br>--> <!--, doi: [10.1101/2020.06.25.20140053](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1)-->
 <!-- <p style = "margin-right: 210px;"> -->
 
 ## <span style="color:#155270;">Peer-reviewed publications</span>
+<span style="color:#155270;">\* denotes equal contribution and joint lead authorship.</span> 
+
+<img align="left" src="/images/CleaR_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Same cause; different effects in the brain.**</span> <br>
+<span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">*</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
+[pdf comming soon] <br style="clear:both" />
+<!-- (){: .btn .btn--primary .btn--small} --> 
+
+
 <img align="left" src="/images/lsd1_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270">**LSD1 dual function in mediating epigenetic corruption of the vitamin D signaling in prostate cancer.**</span> <br>
 <span style="font-size:smaller">Sebastiano Battaglia, Ellen Karasik, Bryan Gillard, **Jennifer Williams**, Trisha Winchester, Michael T. Moser, Dominic J. Smiraglia, Barbara A. Foster</span> <br>
 <span style="font-size:smaller">*Clinical Epigenetics.*</span> <br>
