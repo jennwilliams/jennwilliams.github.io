@@ -16,7 +16,7 @@ author_profile: true
 
 <img align="left" src="/images/cen_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270">**Discriminative Subtyping of Lung Cancers from Histopathology Images via Contextual Deep Learning.**</span> <br>
 <span style="font-size:smaller">Benjamin J. Lengerich, Maruan Al-Shedivat, Amir Alavi, **Jennifer Williams**, Sami Labbaki, Eric P. Xing</span> <br>
-[medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1){: .btn .btn--primary .btn--small}<br style="clear:both" /> <br> <!-- </p>-->
+[medRxiv](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1){: .btn .btn--primary .btn--small}<br style="clear:both" /> <!-- </p>-->
 <!--  *medRxiv* <br>--> <!--, doi: [10.1101/2020.06.25.20140053](https://www.medrxiv.org/content/10.1101/2020.06.25.20140053v1)-->
 <!-- <p style = "margin-right: 210px;"> -->
 
