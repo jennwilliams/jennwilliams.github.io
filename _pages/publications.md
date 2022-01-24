@@ -21,11 +21,11 @@ author_profile: true
 <!-- <p style = "margin-right: 210px;"> -->
 
 ## <span style="color:#155270;">Peer-reviewed publications</span>
-<span style="color:#155270;">\* denotes equal contribution and joint lead authorship.</span> 
+<span style="color:#155270;font-size:smaller">__\*__ denotes equal contribution and joint lead authorship.</span> 
 
 <img align="left" src="/images/CleaR_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Same cause; different effects in the brain.**</span> <br>
-<span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">*</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
-[pdf comming soon] <br style="clear:both" />
+<span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">__*__</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
+[pdf coming soon] <br style="clear:both" />
 <!-- (){: .btn .btn--primary .btn--small} --> 
 
 
