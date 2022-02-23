@@ -25,7 +25,9 @@ author_profile: true
 
 <img align="left" src="/images/CleaR_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Same cause; different effects in the brain.**</span> <br>
 <span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">__*__</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
-[pdf coming soon] <br style="clear:both" />
+[arXiv](https://arxiv.org/pdf/2202.10376.pdf){: .btn .btn--primary .btn--small} [code](https://github.com/brainML/stim-effect){: .btn .btn--primary .btn--small}<br style="clear:both" />
+
+<!--[pdf coming soon] <br style="clear:both" />--> 
 <!-- (){: .btn .btn--primary .btn--small} --> 
 
 
