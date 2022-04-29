@@ -25,6 +25,7 @@ author_profile: true
 
 <img align="left" src="/images/CleaR_fig.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Same cause; different effects in the brain.**</span> <br>
 <span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">__*__</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
+<span style="font-size:smaller">*[CLeaR 2022](https://www.cclear.cc/2022).*</span> <br>
 [arXiv](https://arxiv.org/pdf/2202.10376.pdf){: .btn .btn--primary .btn--small} [code](https://github.com/brainML/stim-effect){: .btn .btn--primary .btn--small}<br style="clear:both" />
 
 <!--[pdf coming soon] <br style="clear:both" />--> 
@@ -36,16 +37,22 @@ author_profile: true
 <span style="font-size:smaller">*Clinical Epigenetics.*</span> <br>
 [journal](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-017-0382-y){: .btn .btn--primary .btn--small} [pdf](/files/lsd1_paper.pdf){: .btn .btn--primary .btn--small} <br>
 
-## <span style="color:#155270;">Conference presentations</span> 
-<span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
-<span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
-<span style="font-size:smaller">Computational and Systems Neuroscience, COSYNE 2022 poster.</span> <br>
-[poster coming soon]
 
+## <span style="color:#155270;">Conference presentations</span> 
+<span style="color:#155270">**Same Cause; Different Effects in the Brain**</span> <br>
+<span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">__*__</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
+<span style="font-size:smaller">Causal Learning and Reasoning Conference, CLeaR 2022 spotlight talk and poster.</span> <br>
+[spotlight slides](/files/CLeaR_spotlight_presentation.pdf){: .btn .btn--primary .btn--small} [poster](/files/CLeaR_poster.pdf){: .btn .btn--primary .btn--small} </span><br>
+  
+  
 <span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
-<span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 poster.</span> <br>
-[video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} 
+<span style="font-size:smaller">Organization of Human Brain Mapping, OHBM 2022 poster.</span> <br>
+[poster coming soon] </span> <br>
+<span style="font-size:smaller">Computational and Systems Neuroscience, COSYNE 2022 poster.</span> <br>
+[poster](/files/COSYNE_poster.pdf){: .btn .btn--primary .btn--small} </span> <br>
+<span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 flash talk.</span> <br>
+[video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} </span><br>
 
 <span style="color:#155270">**Leveraging Brain Encoding Models to Predict Individual Differences in Behavior**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
