@@ -1,13 +1,13 @@
 # main links links
 main:
 
-  - title: "**CV**"
+  - title: "CV"
     url: /files/Williams_CV_website_2022.pdf
     
-  - title: "**Publications**"
+  - title: "Publications"
     url: /publications/
 
-  # - title: "**Conference Presentations**"
+  # - title: "Conference Presentations"
   # url: /presentations/    
     
   
