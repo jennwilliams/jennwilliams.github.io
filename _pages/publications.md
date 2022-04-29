@@ -42,17 +42,17 @@ author_profile: true
 <span style="color:#155270">**Same Cause; Different Effects in the Brain**</span> <br>
 <span style="font-size:smaller">Mariya Toneva<sup><span style="color:#155270;">__*__</span></sup>, __Jennifer Williams<sup><span style="color:#155270;">\*</span></sup>__, Anand Bollu, Christoph Dann, Leila Wehbe</span> <br>
 <span style="font-size:smaller">Causal Learning and Reasoning Conference, CLeaR 2022 spotlight talk and poster.</span> <br>
-[spotlight slides](/files/CLeaR_spotlight_presentation.pdf){: .btn .btn--primary .btn--small} [poster](/files/CLeaR_poster.pdf){: .btn .btn--primary .btn--small} </span><br>
+[spotlight slides](/files/CLeaR_spotlight_presentation.pdf){: .btn .btn--primary .btn--small} [poster](/files/CLeaR_poster.pdf){: .btn .btn--primary .btn--small} <br>
   
   
 <span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
 <span style="font-size:smaller">Organization of Human Brain Mapping, OHBM 2022 poster.</span> <br>
-[poster coming soon] </span> <br>
+[poster coming soon] <br>
 <span style="font-size:smaller">Computational and Systems Neuroscience, COSYNE 2022 poster.</span> <br>
-[poster](/files/COSYNE_poster.pdf){: .btn .btn--primary .btn--small} </span> <br>
+[poster](/files/COSYNE_poster.pdf){: .btn .btn--primary .btn--small} <br>
 <span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 flash talk.</span> <br>
-[video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} </span><br>
+[video](https://www.youtube.com/watch?v=rYgsGDcJgGs&t=4s){: .btn .btn--primary .btn--small} <br>
 
 <span style="color:#155270">**Leveraging Brain Encoding Models to Predict Individual Differences in Behavior**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
