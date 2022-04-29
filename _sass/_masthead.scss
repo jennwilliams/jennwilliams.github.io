@@ -46,11 +46,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-   font-size: $type-size-10;
+   font-size: $type-size-2;
 
   &--lg {
     padding-right: 2em;
     font-weight: 1700;
-    font-size: $type-size-10;
+    font-size: $type-size-2;
   }
 }
