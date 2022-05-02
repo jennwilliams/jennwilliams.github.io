@@ -61,10 +61,12 @@ author_profile: true
 <span style="color:#155270">**All Terrain Graph-Learner-CPC: Causal Model Discovery for Missing Not at Random Data**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Takis Benos</span> <br>
 <span style="font-size:smaller">Intelligent Systems for Molecular Biology/European Conference on Computational Biology, ISMB/ECCB 2019 poster.</span> <br>
+[abstract](/files/ISMB_2019_abstract.pdf){: .btn .btn--primary .btn--small} <br>
 
 <span style="color:#155270">**Contextual Explanation Networks Enable Integrated Analysis of Imaging and Genomic Data**</span> <br>
 <span style="font-size:smaller">Ben Lengerich, Maruan Al-Shedivat, Avinava Dubey, Amir Alavi, **Jennifer Williams**, Eric Xing</span> <br>
 <span style="font-size:smaller">Intelligent Systems for Molecular Biology, ISMB 2018 poster.</span> <br>
+[abstract](/files/ISMB_2018_abstract.pdf){: .btn .btn--primary .btn--small} <br>
 
 <span style="color:#155270">**Learning Causal Models from Missing Not at Random Data in Clinical Datasets**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Takis Benos </span><br>
