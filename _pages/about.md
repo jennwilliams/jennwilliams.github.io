@@ -1,5 +1,3 @@
-<meta name="image" property="og:image" content=/images/website_headshot.png>
-
 ---
 permalink: /
 title: "About me:"
