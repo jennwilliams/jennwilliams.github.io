@@ -48,7 +48,7 @@ author_profile: true
 <span style="color:#155270">**Behavior Measures are Predicted by How Information is Encoded in an Individual’s Brain**</span> <br>
 <span style="font-size:smaller">**Jennifer Williams**, Leila Wehbe</span> <br>
 <span style="font-size:smaller">Organization of Human Brain Mapping, OHBM 2022 poster.</span> <br>
-[poster coming soon] <br>
+[poster](/files/OHBM_poster.pdf){: .btn .btn--primary .btn--small} <br>
 <span style="font-size:smaller">Computational and Systems Neuroscience, COSYNE 2022 poster.</span> <br>
 [poster](/files/COSYNE_poster.pdf){: .btn .btn--primary .btn--small} <br>
 <span style="font-size:smaller">Neuromatch Conference 4, NMC4 2021 flash talk.</span> <br>
