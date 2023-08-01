@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Jennifer Williams"
   avatar           : "website_headshot.png" # in images/
-  bio              : "Senior Data Scientist, CVS Health"
+  bio              : "Senior Data Scientist, <br> CVS Health"
   location         : "Los Angeles, CA"
   employer         : 
   pubmed           : 

@@ -17,7 +17,7 @@ Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My PhD research focused on dev
 Before I joined CMU, I recieved a MSc in [Integrated Systems Biology](https://wwwde.uni.lu/studiengaenge/fstm/master_in_integrated_systems_biology) from the University of Luxembourg and a MS in [Interdisciplinary Natural Sciences](https://www.roswellpark.org/education/masters-phd-programs/masters-program) (now known as Cancer Sciences) from the University at Buffalo, Roswell Park Cancer Institute. In my Master's thesis I computationally and experimentally interrogated the role of Vitamin D in Prostate Cancer, advised by [Barbara Foster](https://www.roswellpark.org/barbara-foster).  
 
 ## News
-- **April 2023** I am excited to join CVS Health as a Senior Data Scientist! 
+- **April 2023:** I am excited to join CVS Health as a Senior Data Scientist! 
 - **June 2022:** Presented a poster at [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) (Organization for Human Brain Mapping annual meeting).
 - **March 2022:** Presented a poster at [COSYNE 2022](https://www.cosyne.org/) (Computational and Systems Neuroscience conference).
 - **January 2022:** New paper that [proposes a framework to enable causal inferences about the effects of complex stimuli in the brain](https://arxiv.org/pdf/2202.10376.pdf) was accepted to [CLeaR 2022](https://www.cclear.cc/2022) (Causal Learning and Reasoning conference)!
