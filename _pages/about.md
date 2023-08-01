@@ -8,11 +8,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in **Computational Biology** in the **School of Computer Science** at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Leila Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My PhD research focuses on developing machine learning methods to better understand (1) how our brains process the world around us, and (2) individual differences between our brains in the presence and absence of disease. I am passionate about developing machine learning methods for healthcare, as well as methods focused on graph-based problems and causality.
+I am a Senior Data Scientist at [CVS Health](https://www.cvshealth.com/), working on the Machine Learning Platform team. 
+
+Previously, I was a PhD student in **Computational Biology** in the **School of Computer Science** at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Leila 
+Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My PhD research focused on developing machine learning methods to better understand (1) how our brains process the world around us, and 
+(2) individual differences between our brains in the presence and absence of disease. I am passionate about developing machine learning methods for healthcare, as well as methods focused on graph-based problems and causality.
 
 Before I joined CMU, I recieved a MSc in [Integrated Systems Biology](https://wwwde.uni.lu/studiengaenge/fstm/master_in_integrated_systems_biology) from the University of Luxembourg and a MS in [Interdisciplinary Natural Sciences](https://www.roswellpark.org/education/masters-phd-programs/masters-program) (now known as Cancer Sciences) from the University at Buffalo, Roswell Park Cancer Institute. In my Master's thesis I computationally and experimentally interrogated the role of Vitamin D in Prostate Cancer, advised by [Barbara Foster](https://www.roswellpark.org/barbara-foster).  
 
 ## News
+- **April 2023** I am excited to join CVS Health as a Senior Data Scientist! 
 - **June 2022:** Presented a poster at [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) (Organization for Human Brain Mapping annual meeting).
 - **March 2022:** Presented a poster at [COSYNE 2022](https://www.cosyne.org/) (Computational and Systems Neuroscience conference).
 - **January 2022:** New paper that [proposes a framework to enable causal inferences about the effects of complex stimuli in the brain](https://arxiv.org/pdf/2202.10376.pdf) was accepted to [CLeaR 2022](https://www.cclear.cc/2022) (Causal Learning and Reasoning conference)!

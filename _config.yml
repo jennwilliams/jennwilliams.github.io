@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Jennifer Williams"
   avatar           : "website_headshot.png" # in images/
-  bio              : "PhD student, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Senior Data Scientist, CVS Health"
+  location         : "Los Angeles, CA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cVmG810AAAAJ"
-  email            : "jlw1@cs.cmu.edu"
+  email            : "jlw1@alumni.cmu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Pacific # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
