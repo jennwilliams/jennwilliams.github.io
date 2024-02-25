@@ -8,16 +8,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Data Scientist at [CVS Health](https://www.cvshealth.com/), working on the Machine Learning Platform team. 
+As a Senior Machine Learning Scientist at [CVS Health](https://www.cvshealth.com/), I specialize in leveraging Machine Learning to enhance healthcare for our customers. 
 
-Previously, I was a PhD student in **Computational Biology** in the **School of Computer Science** at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Leila 
-Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My PhD research focused on developing machine learning methods to better understand (1) how our brains process the world around us, and 
-(2) individual differences between our brains in the presence and absence of disease. I am passionate about developing machine learning methods for healthcare, as well as methods focused on graph-based problems and causality.
+I obtained my PhD from the **School of Computer Science** at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Leila 
+Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My research focused on the intersection of machine learning, natural language processing (NLP) and healthcare. In particular, I developed machine learning methods to increase our understanding of how our brains process real-world language, images, and environments in both health and disease states. Additionally, my expertise extends to developing machine learning methods for graph-based problems and causality. 
 
-Before I joined CMU, I recieved a MSc in [Integrated Systems Biology](https://wwwde.uni.lu/studiengaenge/fstm/master_in_integrated_systems_biology) from the University of Luxembourg and a MS in [Interdisciplinary Natural Sciences](https://www.roswellpark.org/education/masters-phd-programs/masters-program) (now known as Cancer Sciences) from the University at Buffalo, Roswell Park Cancer Institute. In my Master's thesis I computationally and experimentally interrogated the role of Vitamin D in Prostate Cancer, advised by [Barbara Foster](https://www.roswellpark.org/barbara-foster).  
+Before joining CMU, I earned a MSc in [Integrated Systems Biology](https://wwwde.uni.lu/studiengaenge/fstm/master_in_integrated_systems_biology) from the University of Luxembourg and a MS in [Interdisciplinary Natural Sciences](https://www.roswellpark.org/education/masters-phd-programs/masters-program) (now known as Cancer Sciences) from the University at Buffalo, Roswell Park Cancer Institute. My Master's thesis delved into pharmacogenomics, investigating the impact of Vitamin D on Prostate Cancer, advised by [Barbara Foster](https://www.roswellpark.org/barbara-foster).  
+ 
+With a Ph.D. with a focus on natural language processing and a diverse background in interdisciplinary research, my passion lies in propelling innovation in industry.
 
 ## News
-- **April 2023:** I am excited to join CVS Health as a Senior Data Scientist! 
+- **April 2023:** I am excited to join CVS Health as a Senior Machine Learning Scientist! 
 - **June 2022:** Presented a poster at [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) (Organization for Human Brain Mapping annual meeting).
 - **March 2022:** Presented a poster at [COSYNE 2022](https://www.cosyne.org/) (Computational and Systems Neuroscience conference).
 - **January 2022:** New paper that [proposes a framework to enable causal inferences about the effects of complex stimuli in the brain](https://arxiv.org/pdf/2202.10376.pdf) was accepted to [CLeaR 2022](https://www.cclear.cc/2022) (Causal Learning and Reasoning conference)!
