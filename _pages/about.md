@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As a Senior Machine Learning Scientist at [CVS Health](https://www.cvshealth.com/), I specialize in leveraging Machine Learning to enhance healthcare for our customers. 
+As a Senior Machine Learning Scientist at [CVS Health](https://www.cvshealth.com/), I lead the development and deployment of machine learning solutions, including Generative AI, that drive customer satisfaction and improve healthcare outcomes. 
 
 I obtained my PhD from the **School of Computer Science** at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), advised by [Leila 
 Wehbe](http://www.cs.cmu.edu/~lwehbe/index.html). My research focused on the intersection of machine learning, natural language processing (NLP) and healthcare. In particular, I developed machine learning methods to increase our understanding of how our brains process real-world language, images, and environments in both health and disease states. Additionally, my expertise extends to developing machine learning methods for graph-based problems and causality. 
