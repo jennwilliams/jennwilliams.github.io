@@ -18,6 +18,7 @@ Before joining CMU, I earned a MSc in [Integrated Systems Biology](https://wwwde
 With a Ph.D. with a focus on natural language processing and a diverse background in interdisciplinary research, my passion lies in propelling innovation in industry.
 
 ## News
+- **December 2024:** Co-organizing [ICBINB: Challenges in Applied Deep Learning workshop](https://sites.google.com/view/icbinb-2025) at ICLR 2025!
 - **April 2023:** I am excited to join CVS Health as a Senior Machine Learning Scientist! 
 - **June 2022:** Presented a poster at [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4118) (Organization for Human Brain Mapping annual meeting).
 - **March 2022:** Presented a poster at [COSYNE 2022](https://www.cosyne.org/) (Computational and Systems Neuroscience conference).
